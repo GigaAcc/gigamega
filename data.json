@@ -1,0 +1,854 @@
+[
+    {
+        "SL_SKROT": "DG 303, 304",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 303, 304",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T13:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 305",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T12:05:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 303, 304",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T09:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 441 RM",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:45:00.000Z",
+        "koniec": "1970-01-01T12:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 328",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 323",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T13:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 229 Metrologia",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T10:25:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 305",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG330 - Anatomia",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 425",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 222",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T12:05:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 328",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 319",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:45:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 242 KOSM",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 342 FIZJO",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 319",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 444 FIZJO",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T20:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 446 Anatomia",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T18:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 324 IT",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T17:10:00.000Z",
+        "koniec": "1970-01-01T19:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 223",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 444 FIZJO",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T12:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 302",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T10:25:00.000Z",
+        "koniec": "1970-01-01T13:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 303, 304",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 223",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 324 IT",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T19:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 425",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T13:05:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 232 Pielęgniarstwo",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 321 IT",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T13:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 223",
+        "dzien": "Poniedziałek 20.11",
+        "poczatek": "1970-01-01T16:15:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 314",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T13:05:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 323",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T12:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 242 KOSM",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T15:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 442 RM",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T18:05:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 232 Pielęgniarstwo",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG330 - Anatomia",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T13:05:00.000Z",
+        "koniec": "1970-01-01T17:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 339 FIZJO",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 222",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T12:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 446 Anatomia",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 441 RM",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T15:30:00.000Z",
+        "koniec": "1970-01-01T19:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 314",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T09:40:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 302",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T09:40:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 442 RM",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T12:05:00.000Z",
+        "koniec": "1970-01-01T15:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 122",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T13:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 305",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 207, 208",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 123",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T13:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 303, 304",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 123",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T12:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 425",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 339 FIZJO",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T12:05:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 123",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 123",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T13:50:00.000Z",
+        "koniec": "1970-01-01T15:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 440 RM",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T13:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 222",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 122",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG330 - Anatomia",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 339 FIZJO",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T12:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 232 Pielęgniarstwo",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T09:40:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 303, 304",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 242 KOSM",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T15:30:00.000Z",
+        "koniec": "1970-01-01T19:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 323",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T10:25:00.000Z",
+        "koniec": "1970-01-01T15:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 321 IT",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T12:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 305",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T13:05:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 445",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T15:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 305",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 309",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T09:40:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 302",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T13:50:00.000Z",
+        "koniec": "1970-01-01T17:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 444 FIZJO",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T12:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 223",
+        "dzien": "Wtorek 21.11",
+        "poczatek": "1970-01-01T16:15:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 339 FIZJO",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T12:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 342 FIZJO",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 342 FIZJO",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 305",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 440 RM",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T12:05:00.000Z",
+        "koniec": "1970-01-01T15:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 425",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T18:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 207, 208",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 332 Pielęgniarstwo",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 445",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 319",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG330 - Anatomia",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T17:10:00.000Z",
+        "koniec": "1970-01-01T20:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 303, 304",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T09:40:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 207, 208",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 122",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 323",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T09:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 445",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 328",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 242 KOSM",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 207, 208",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T09:40:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 332 Pielęgniarstwo",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 216 IT",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T15:30:00.000Z",
+        "koniec": "1970-01-01T18:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 339 FIZJO",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T12:05:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 222",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T13:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 324 IT",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 223",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 314",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T09:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 339 FIZJO",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T20:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 324 IT",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T19:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 207, 208",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 342 FIZJO",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T14:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 441 RM",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T12:05:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 339 FIZJO",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T15:30:00.000Z",
+        "koniec": "1970-01-01T19:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 444 FIZJO",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T20:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 442 RM",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 302",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T09:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 441 RM",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T21:25:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 242 KOSM",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 305",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T09:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 342 FIZJO",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T18:05:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 123",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T19:35:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 339 FIZJO",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T18:05:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 440 RM",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T11:20:00.000Z",
+        "koniec": "1970-01-01T15:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 242 KOSM",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T12:05:00.000Z",
+        "koniec": "1970-01-01T15:30:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 342 FIZJO",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T08:45:00.000Z",
+        "koniec": "1970-01-01T12:05:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 322",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T14:45:00.000Z",
+        "koniec": "1970-01-01T17:55:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 223",
+        "dzien": "Wtorek 21.11",
+        "poczatek": "1970-01-01T16:15:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 342 FIZJO",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T18:05:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 223",
+        "dzien": "Poniedziałek 20.11",
+        "poczatek": "1970-01-01T16:15:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 222",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T12:05:00.000Z",
+        "koniec": "1970-01-01T16:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 305",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T18:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 440 RM",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T16:25:00.000Z",
+        "koniec": "1970-01-01T21:15:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 245 ",
+        "dzien": "Środa 22.11",
+        "poczatek": "1970-01-01T08:00:00.000Z",
+        "koniec": "1970-01-01T11:10:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG 441 RM",
+        "dzien": "Czwartek 23.11",
+        "poczatek": "1970-01-01T15:30:00.000Z",
+        "koniec": "1970-01-01T18:50:00.000Z"
+    },
+    {
+        "SL_SKROT": "DG AUD D",
+        "dzien": "Piątek 24.11",
+        "poczatek": "1970-01-01T09:00:00.000Z",
+        "koniec": "1970-01-01T11:00:00.000Z"
+    }
+]
